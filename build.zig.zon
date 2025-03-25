@@ -1,6 +1,6 @@
 .{
     .name = .sdl3_prebuilt_x86_64_windows_gnu,
-    .version = "0.1.0",
+    .version = "0.2.0-dev",
     .paths = .{
         "build.zig.zon",
         "bin",
